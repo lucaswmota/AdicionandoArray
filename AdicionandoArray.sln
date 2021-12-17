@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdicionandoArray", "AdicionandoArray.csproj", "{90D6B3D9-EE07-4CB4-9F0E-F210F4D14AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D6B3D9-EE07-4CB4-9F0E-F210F4D14AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D6B3D9-EE07-4CB4-9F0E-F210F4D14AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D6B3D9-EE07-4CB4-9F0E-F210F4D14AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D6B3D9-EE07-4CB4-9F0E-F210F4D14AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F83415F-0687-4D5E-BD8F-274E95AA722C}
+	EndGlobalSection
+EndGlobal
